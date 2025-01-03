@@ -1,4 +1,4 @@
-#**iPhone Reviews Sentiment Analysis**
+# iPhone Reviews Sentiment Analysis
 
 ##**Project Overview**
 This project focuses on analyzing user reviews for iPhones by combining methodologies from two research papers. The goal is to extract meaningful insights into customer sentiment, preferences, and areas for improvement. Using **VADER** for sentiment analysis and exploratory data analysis (EDA), we categorized reviews into positive and negative sentiments, visualized trends, and highlighted features driving user feedback.
